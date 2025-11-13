@@ -7,9 +7,9 @@
 - 🧮 modeling for financial and technical decisions
 - 🧠 Debugging, OOP
 
-🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 I’m always open to collaboration, feedback, and learning from others.
 
-Linekdin - 
+Linkedin - 
 
